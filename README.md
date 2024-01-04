@@ -1,6 +1,5 @@
-# Welcome to Streamlit!
+# Welcome to My Diabetes Prediction Application!
 
-Edit `/streamlit_app.py` to customize this app to your heart's desire. :heart:
+This is about the early prediction of diabetes application by using Decision Tree as the modelling algorithms :heart:
 
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+
