@@ -3,10 +3,10 @@ import pandas as pd
 import joblib
 
 # Load the trained model
-model = joblib.load('C:/Users/jac_c/Downloads/best_dt_model.joblib')
+model = joblib.load('best_dt_model.joblib')
 
 # Load your DataFrame
-df = pd.read_csv('D:/Sem 5/Investigations/archive/diabetes_012_health_indicators_BRFSS2015.csv')
+df = pd.read_csv('diabetes_012_health_indicators_BRFSS2015.csv')
 
 # Streamlit App
 st.title('Diabetes Detection Using Machine Learning')
